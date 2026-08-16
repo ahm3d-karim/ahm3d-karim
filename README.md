@@ -62,7 +62,7 @@ Economics undergrad at **LUMS** — BSc (Hons), class of '28. I build tools that
 | [Agentize](https://github.com/ahm3d-karim/agentize) | Generates AGENTS.md from a repo's actual config — every command sourced from real files, nothing invented | Python |
 | [Commit-Brief](https://github.com/ahm3d-karim/commit-brief) | Turns yesterday's git log into a one-paragraph standup summary — CLI + MCP server | Python |
 | [WhatsApp Bot](https://github.com/ahm3d-karim/whatsapp-bot) | WhatsApp chatbot: Meta Cloud API webhook + DeepSeek LLM | Python / FastAPI |
-| [PakistanInData](https://github.com/ahm3d-karim/PakistanInData) | Interactive data dashboards for Pakistan's development indicators — hypothesis-driven, built on PBS microdata. [Live](https://pakistan-in-data.vercel.app) | TypeScript / Next.js |
+| [PakistanInData](https://pakistan-in-data.vercel.app) | Interactive data dashboards for Pakistan's development indicators — hypothesis-driven, built on PBS microdata (code private, site live) | TypeScript / Next.js |
 
 <!-- 🛠️ STACK -->
 <h2 align="center">🛠️ Stack</h2>
