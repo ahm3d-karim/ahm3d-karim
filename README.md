@@ -28,7 +28,6 @@ Economics undergrad at **LUMS**, BSc (Hons), class of '28. I build tools that ma
 | [Macro Lens](https://macrolens-pied.vercel.app) | South Asia macro dossiers (Pakistan, India, Bangladesh, Sri Lanka, Nepal) built from World Bank WDI data. Finding-first charts across all five economies | TypeScript / Next.js |
 | [Semester OS](https://github.com/ahm3d-karim/semester-os) | LUMS-first syllabus copilot: upload a syllabus, get verified course models, weekly briefings, and a grade budget. BYOK agent pipeline | TypeScript / Supabase |
 | [IMDAD v2](https://github.com/ahm3d-karim/imdad-v2) | Pakistan government benefits eligibility checker: answers 13 questions, maps you to 12 schemes, EN/Urdu, LLM-assisted. **Top 5, GDG Chai Aur Code hackathon.** [Live](https://imdad-beta.vercel.app) | TypeScript / Next.js |
-| [Ticket-to-Fix](https://github.com/ahm3d-karim/ticket-to-fix) | Agentic dev pipeline: ticket in, agent repro + fix, 3-state verification harness, human approval gate, prod deploy with rollback. Every step audit-logged | Python |
 | [Agentize](https://github.com/ahm3d-karim/agentize) | Generates AGENTS.md from a repo's actual config: every command sourced from real files, nothing invented | Python |
 | [Commit-Brief](https://github.com/ahm3d-karim/commit-brief) | Turns yesterday's git log into a one-paragraph standup summary. CLI + MCP server | Python |
 | [WhatsApp Bot](https://github.com/ahm3d-karim/whatsapp-bot) | WhatsApp chatbot: Meta Cloud API webhook + DeepSeek LLM | Python / FastAPI |
